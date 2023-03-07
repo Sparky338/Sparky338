@@ -1,4 +1,4 @@
-## Hello there and welcome! My pronouns are he/him/his and I'm pansexual.
+## Hello there and welcome!
 ![QueerCat_Pansexual](https://user-images.githubusercontent.com/102490631/209242236-0b1bbdc2-b209-44b5-b790-82a156c4b4f7.png)
 #### Languages, Frameworks, & Tools I use:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@
 
 #### Before becoming a coder, I was an A/V Technician at Alaska Universal Productions (AUP), a live event production company in Fairbanks, Alaska. While there, I set up, operated, and dismantled lighting, audio, stage, and video equipment for live events and installations. I was also an arena rigger for events that needed things to be suspended above the floor. At AUP, I was also able to be a production assistant and grip for a few commercial and film productions. I'm proud of the installations that I was able to do there, both in home and in businesses, as well as the skills I learned in lighting and sound design, arena rigging, interpersonal interactions, and customer service.
 
-#### In my free time, I enjoy skydiving, hiking, snowboarding, rock climbing and playing video games. The physical, mental, and sometimes challenging nature of these activities keeps me engaged and constantly learning new techniques and skills, similar to how coding and my previous work experience has been.
+#### In my free time, I enjoy skydiving, hiking, snowboarding, rock climbing and playing video games. The physical, mental, and sometimes challenging nature of these activities keeps me engaged and constantly learning new techniques and skills, similar to how coding and my previous work experience has been. I am proud to be part of the LGBTQ+ community.
 
 #### Feel free to contact me through email or my profile, both are in the lefthand sidebar. You can also check out my [LinkedIn](www.linkedin.com/in/matt-hutter-2a6620173) to learn more about my skills and knowledge.
 
