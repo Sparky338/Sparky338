@@ -24,13 +24,27 @@ Databases & Hosting that I use:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-I began my coding journey back in middle school and high school with small, static HTML pages. Since then, I have expanded my coding expertise with the help of App Academy and their 6 month online coding boot camp. While studying with App Academy, I learned to code with Javascript, React/Redux, SQL, SQlite3, Python, Flask, SQLAlchemy, PostgreSQL, HTML, CSS, Docker, and used Git for version control and paired programming. The projects I developed have all used Git and Github, as well as being deployed on Heroku or Render. While learning at App Academy, I studied Test Driven Development (TDD), Object Oriented Programming (OOP), and Data Structures & Algorithms (DS&A), which have helped me become a well-rounded programmer. Since graduating in December 2022, I have continued to study Data Structures and Algorithms, learned Typescript on my own, have been working on a contract with Meta improving my skills in Python, Pandas, SQL, and RegEx through mentorship, and volunteered to make a website for a LGBTQ+ nonprofit in South Africa. 
+Licensed skydiver and software engineer. I was previously an A/V Technician for Live Event Production and currently looking for employment as a Full Stack or Frontend Software Engineer, 
+preferably within climate tech. Hardworking, eager to learn, and skilled in communicating with co-workers and clients, as demonstrated from my previous career. I'm particularly proud of 
+my project Flying Fox. Check it out here: [Flying Fox](https://flying-fox-capstone.onrender.com/)
 
-Before becoming a coder, I was an A/V Technician for 6 years at Alaska Universal Productions (AUP), a live event production company in Fairbanks, Alaska. While there, I set up, operated, and dismantled lighting, audio, stage, and video equipment for live events and installations. I was also an arena rigger for events that needed things to be suspended above the floor. At AUP, I was also able to be a production assistant and grip for a few commercial and film productions. I'm proud of the installations that I was able to do there, both in home and in businesses, as well as the skills I learned in lighting and sound design, arena rigging, interpersonal interactions, and customer service.
+I began my coding journey back in middle school and high school with small, static HTML pages. Since then, I have always been interested in computers, building my own desktops in 2011 
+and 2018. I expanded my coding expertise with the help of App Academy's online coding boot camp. The projects I developed have all used Git and Github, as well as being deployed on Heroku 
+or Render. Since graduating in December 2022, I have continued to study Data Structures and Algorithms, learned Typescript on my own, worked on a contract with Meta providing support 
+for AR/VR Headset research, improving my skills in Python, Pandas, SQL, and RegEx through mentorship, volunteered with a team to create a website for a LGBTQ+ nonprofit in South Africa, 
+worked with a startup changing how resumes function, and competed in a hackathon for climate tech achieving second in my team's category.
 
-In my free time, I enjoy skydiving, hiking, snowboarding, rock climbing and playing video games/ board games. The physical, mental, and sometimes challenging nature of these activities keeps me engaged and constantly learning new techniques and skills, similar to how coding and my previous work experience has been. I am proud to be part of the LGBTQ+ community and passionate about climate change.
+Before becoming a coder, I was an A/V Technician for 6 years at Alaska Universal Productions (AUP), a live event production company in Fairbanks, Alaska. While there, I set up, operated, 
+and dismantled lighting, audio, stage, and video equipment for live events and installations. I was also an arena rigger for events that needed things to be suspended above the floor. At 
+AUP, I was also able to be a production assistant and grip for a few commercial and film productions. I'm proud of the installations that I was able to do there, both in home and in 
+businesses, as well as the skills I learned in lighting and sound design, arena rigging, interpersonal interactions, and customer service.
 
-Feel free to contact me through email or my profile, both are in the lefthand sidebar. You can also check out my [LinkedIn](https://www.linkedin.com/in/matt-hutter-2a6620173) to learn more about my skills and knowledge.
+In my free time, I enjoy skydiving, hiking, snowboarding, rock climbing and playing video games/ board games. The physical, mental, and sometimes challenging nature of these activities 
+keeps me engaged and constantly learning new techniques and skills, similar to how coding and my previous work experience has been. I am proud to be part of the LGBTQ+ community and 
+passionate about climate change.
+
+Feel free to contact me through email or my profile, both are in the lefthand sidebar. You can also check out my [LinkedIn](https://www.linkedin.com/in/matt-hutter-2a6620173) to learn 
+more about my skills and knowledge.
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparky338&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
