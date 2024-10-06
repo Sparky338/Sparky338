@@ -46,8 +46,6 @@ passionate about climate change.
 Feel free to contact me through email or my profile, both are in the lefthand sidebar. You can also check out my [LinkedIn](https://www.linkedin.com/in/matt-hutter-2a6620173) to learn 
 more about my skills and knowledge.
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparky338&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
